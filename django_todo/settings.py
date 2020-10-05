@@ -26,7 +26,7 @@ SECRET_KEY = 'ztdr#t4aku0=8%g20-dlj@pm%^=b_5$!awfel6h92)vf^q1c=='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nemanja-django-todo-app.herokuapp.com/']
+ALLOWED_HOSTS = ['nemanja-django-todo-app.herokuapp.com']
 
 
 # Application definition
