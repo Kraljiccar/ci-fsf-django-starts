@@ -1,4 +1,3 @@
-core.Microsoft*
-env.py
+*.dqlite3
 __pycache__/
-*.py[cod]
+
